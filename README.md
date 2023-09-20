@@ -2,4 +2,5 @@
 
 A Java Swing program that lets you generate random passwords. <br>
 Let's you decide the length and what characters should be in the password <br>
-![Password Generator Screenshot](https://github.com/DumbDerg/Password-Generator/assets/94778270/64353bf8-9856-4cc2-9ad8-47a9a06f296f)
+![Password Generator Screenshot](https://github.com/DumbDerg/Password-Generator/assets/94778270/569cb7b7-d96c-4fb7-b75f-871f780c79fc)
+
